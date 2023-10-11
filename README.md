@@ -4,7 +4,6 @@
 
 <img align="right" src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macos/psp-mini-hero-macos-high-sierra-whats-new_2x.png" alt="Critter" width="250">
 
-### Latest Release: [v4.3](https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579/releases/tag/v4.3)
 
 **macOS Version: 11.2.2**
 
