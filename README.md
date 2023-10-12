@@ -3,10 +3,7 @@
 
 
 <img align="right" src="https://support.apple.com/content/dam/edam/applecare/images/en_US/macos/psp-mini-hero-macos-high-sierra-whats-new_2x.png" alt="Critter" width="250">
-
-
-**macOS Version: 11.2.2**
-
+
 **OpenCore Version: [0.6.7 Official](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.7)**
 
 Visão Geral do Projeto
